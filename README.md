@@ -4,8 +4,8 @@
 
 ## Education
 - EMBA, Quantic (_2024_)
-- Ph.D., North Carolina State University (_2016_)
-- M.S., Biology | Winthrop University (_2012_)
+- Ph.D., North Carolina State University (_2012-2016_)
+- M.S., Biology | Winthrop University (_2010-2012_)
   
 ## Key Responsibilities:
 
@@ -18,12 +18,13 @@
 - Sales Support - partner with sales teams to create technical materials tailored to customer needs. Use data-driven insights to improve product positioning.
 
 ## Experiences
-- Early Development Lead | Envu
-- Product Development Manager | Envu
-- MUVE Vice-President | Entomological Society of America
-- Mobile Application Developer | Self Employed
-- Product Development Manager | Bayer
-- Data Scientist | McCloud Services
+- Early Development Lead | Envu (_2025_)
+- Product Development Manager | Envu (_2022_)
+- MUVE Vice-President | Entomological Society of America (_2024_)
+- Mobile Application Developer | Self Employed (_2022_)
+- Product Development Manager | Bayer (_2017-2022_)
+- Data Scientist | McCloud Services (_2017_)
+- Trait Research | Bayer (_2015_)
 
 ## Publications
 - Development of a Lateral Flow Test for Bed Bug Detection | Proceedings of the Tenth International Conference on Urban Pests
