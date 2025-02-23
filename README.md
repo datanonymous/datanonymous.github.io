@@ -3,8 +3,8 @@
 #### Technical Skills: Product Development, Entrepreneurship, Disruptive innovation, Python, Dart
 
 ## Education
-- EMBA, Quantic (_2024_)
-- Ph.D., North Carolina State University (_2012-2016_)
+- EMBA, Executive MBA | Quantic (_2024_)
+- Ph.D., Entomology | North Carolina State University (_2012-2016_)
 - M.S., Biology | Winthrop University (_2010-2012_)
   
 ## Key Responsibilities:
